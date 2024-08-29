@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 
 model = load_model('rnn_tf_rg.keras')
 # 读取数据
-data = pd.read_csv('weather.csv')
+data = pd.read_csv('vali.csv')
 # 选择输入特征和目标值
 X = data[['p (mbar)', 'rh (%)']].values
 Y = data['T (degC)'].values
