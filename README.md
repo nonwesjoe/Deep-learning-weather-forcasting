@@ -2,7 +2,7 @@
 * a mini dataset is used for Deeplearning models
 * Full connection model
 * LSTM
-* data destribution
+* data destribution after min-max-scarling
 * ![下载](https://github.com/user-attachments/assets/9aadd3f0-2311-4959-82f9-d01602e7e750)
 # LSTM weather prediction
 * use previous 6 hours data to predict next hour.
