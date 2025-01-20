@@ -11,3 +11,5 @@
 # LSTM weather prediction
 * use previous 6 hours Degree data to predict next hour's Degree data.
 * ![rnn-1](https://github.com/user-attachments/assets/23a976af-e850-43ca-93c1-d3d32fc0992a)
+* use previous 6 hours Degree data to predict next 3 hours' Degree data.
+* ![rnn (1)](https://github.com/user-attachments/assets/2470d7ef-0ded-449e-9cfa-ae3b3853cf6f)
