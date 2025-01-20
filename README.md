@@ -1,7 +1,6 @@
 # Deep-learning-weather-forcasting-mini
 * a mini dataset is used for Deeplearning models
-* MLP
-* LSTM
+
 * data destribution after min-max-scarling
 * ![下载](https://github.com/user-attachments/assets/9aadd3f0-2311-4959-82f9-d01602e7e750)
 # MLP weather prediction
